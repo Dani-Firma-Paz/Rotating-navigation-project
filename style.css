@@ -136,3 +136,15 @@ nav ul li + li + li {
   color: #333;
   line-height: 1.5;
 }
+
+.btn {
+  background-color: rgb(231, 52, 52);
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  margin: 2rem;
+  padding: 1.5rem 3rem;
+  font-size: 1.5rem;
+  font-family: inherit;
+  cursor: pointer;
+}
